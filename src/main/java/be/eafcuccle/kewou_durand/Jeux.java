@@ -10,7 +10,7 @@ public class Jeux {
     }
 
     public static int veuxjouter(int a, int b,int c) {
-        return a + b;
+        return a + b +c;
     }
 }
 
